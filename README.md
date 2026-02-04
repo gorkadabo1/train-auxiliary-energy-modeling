@@ -1,6 +1,6 @@
 # Train Auxiliary Energy Consumption Modeling
 
-A machine learning project for modeling and predicting the energy consumed by auxiliary equipment in railway trains (CAF I+D). The analysis combines linear regression with interpretable coefficients and Random Forest for comparison, using real operational data from train HVAC systems.
+A machine learning project for modeling and predicting the energy consumed by auxiliary equipment in railway trains. The analysis combines linear regression with interpretable coefficients and Random Forest for comparison, using real operational data from train HVAC systems.
 
 ![R](https://img.shields.io/badge/R-4.0+-blue.svg)
 ![Machine Learning](https://img.shields.io/badge/ML-Regression-green.svg)
@@ -147,5 +147,5 @@ train-auxiliary-energy-modeling/
 │   └── auxiliary_energy_analysis.R   # Main analysis script
 │
 └── data/
-    └── Entregable1.RData       # Dataset (not included)
+    └── data.RData       # Dataset (not included)
 ```
