@@ -42,7 +42,7 @@ Where:
 
 ## Tasks
 
-### 1) Load the data "Entregable1.RData"
+### 1) Load the data "data.RData"
 
 ### 2) Filter the data
 - Remove events longer than 600 seconds
